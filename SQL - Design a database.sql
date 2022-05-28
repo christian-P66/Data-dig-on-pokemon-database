@@ -43,7 +43,7 @@ SELECT SUM(price) FROM Inventory;
 
 SELECT AVG(price) FROM Inventory;
 --------------------------------------------------------------------------------------------------------------------------
---Select statements on Inventory table
+--Select statements on Customer table
 
 SELECT * FROM Customer ORDER BY ID DESC;
 
